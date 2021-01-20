@@ -1,0 +1,11 @@
+D:\KampEnginDemirog\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp2.1\ClassMetotDemo.deps.json
+D:\KampEnginDemirog\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp2.1\ClassMetotDemo.runtimeconfig.json
+D:\KampEnginDemirog\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp2.1\ClassMetotDemo.runtimeconfig.dev.json
+D:\KampEnginDemirog\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp2.1\ClassMetotDemo.dll
+D:\KampEnginDemirog\ClassMetotDemo\ClassMetotDemo\bin\Debug\netcoreapp2.1\ClassMetotDemo.pdb
+D:\KampEnginDemirog\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.csprojAssemblyReference.cache
+D:\KampEnginDemirog\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.csproj.CoreCompileInputs.cache
+D:\KampEnginDemirog\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.AssemblyInfoInputs.cache
+D:\KampEnginDemirog\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.AssemblyInfo.cs
+D:\KampEnginDemirog\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.dll
+D:\KampEnginDemirog\ClassMetotDemo\ClassMetotDemo\obj\Debug\netcoreapp2.1\ClassMetotDemo.pdb
