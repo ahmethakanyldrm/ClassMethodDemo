@@ -49,7 +49,7 @@ namespace ClassMetotDemo
             customer6.Balance = 100000;
 
 
-            Customer[] customers = { customer1, customer2, customer3, customer4 };
+            Customer[] customers = { customer1, customer2, customer3, customer4, customer5 , customer6 };
 
             CustomerManager customerManager = new CustomerManager();
             customerManager.AddCustomer(customer1);
