@@ -35,14 +35,14 @@ namespace ClassMetotDemo
             customer4.Balance = 100000;
 
             Customer customer5 = new Customer();
-            customer5.Id = 4;
+            customer5.Id = 5;
             customer5.FirstName = "Mehmet ";
             customer5.LastName = "Uysal";
             customer5.Address = "Konya";
             customer5.Balance = 100000;
 
             Customer customer6 = new Customer();
-            customer6.Id = 4;
+            customer6.Id = 6;
             customer6.FirstName = "Can  ";
             customer6.LastName = "Gümüş";
             customer6.Address = "Hatay";
